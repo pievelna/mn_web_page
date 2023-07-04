@@ -2,6 +2,7 @@
 Static page for Madara's clinical psychology pratice
 ## Top bar
 General idea - name of the page or icon. And two or three navigation links to sections in the page.
+- picture - icon - link to page itself
 - about me
 - contact
 - resources
