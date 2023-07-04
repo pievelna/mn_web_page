@@ -18,7 +18,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* background-color: #c0c0c055; */
   padding: 10px;
 }
 
@@ -28,6 +27,7 @@ body {
   padding: 0;
   display: flex;
   justify-content: space-around;
+  gap: 50px;
 }
 
 .navigation-links li {
@@ -40,6 +40,10 @@ body {
   font-weight: bold;
 }
 
+h2 {
+  text-align: center;
+}
+
 .content {
   margin: 10px;
   padding-bottom: 20px;
@@ -48,7 +52,18 @@ body {
 .about {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding: 150px
+}
+
+.about-picture {
+  /* flex: 1 0 auto; */
+}
+
+.about-text {
+  /* flex: 1 0 auto; */
 }
 
 .bottom-bar {
@@ -80,6 +95,7 @@ body {
   .about {
     flex-direction: column;
     align-items: center;
+    padding: 50px;
   }
 
   .bottom-bar{
