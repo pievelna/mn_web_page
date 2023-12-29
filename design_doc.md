@@ -14,3 +14,11 @@ General idea - name of the page or icon. And two or three navigation links to se
 ### Page for resources and Q&A
 ## Bottom bar
 - design info
+
+
+# TO Do
+[ ] highlight clicked section in the top bar
+[ ] decide on the background
+[ ] get picture to use instead of Mona
+[ ] contact info? new email?
+[ ] hide "info" un "q&a" sections for now
