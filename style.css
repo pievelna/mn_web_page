@@ -7,6 +7,7 @@ body {
   /* background-image: url("pexels-dav-7952409.avif");
   background-image: url("pexels-dav-7952409.jpg"); */
   background-size: 80%;
+  font-size: large;
 }
 
 .flex-container {
@@ -86,6 +87,7 @@ h2 {
 
 .bottom-bar {
   text-align: center;
+  font-size: xx-small;
 }
 
 .contact {
@@ -105,6 +107,7 @@ h2 {
 @media only screen and (max-width: 600px) {
   body{
     background-size: 150%;
+    font-size: medium;
   }
 
   .title{
