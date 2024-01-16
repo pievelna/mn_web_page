@@ -16,9 +16,11 @@ General idea - name of the page or icon. And two or three navigation links to se
 - design info
 
 
-# TO Do
+# TO DO
 [ ] highlight clicked section in the top bar
 [ ] decide on the background
 [ ] get picture to use instead of Mona
-[ ] contact info? new email?
-[ ] hide "info" un "q&a" sections for now
+[ ] HEPI kursi?
+[ ] Dardedzes kursi
+[x] contact info? new email? Same email
+[x] hide "info" un "q&a" sections for now
