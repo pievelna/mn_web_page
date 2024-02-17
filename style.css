@@ -3,10 +3,8 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #F6EFE4;
-  /* background-image: url("pexels-dav-7952409.avif");
-  background-image: url("pexels-dav-7952409.jpg"); */
-  background-size: 80%;
+  /* background-color: #F6EFE4; */
+  background-image: url("noise.png");
   font-size: large;
 }
 
