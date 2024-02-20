@@ -22,6 +22,10 @@ body {
   padding: 10px;
 }
 
+.title_icon img{
+  height: 50px;
+}
+
 .navigation-links {
   margin: 0;
   padding: 0;
@@ -62,6 +66,7 @@ h2 {
 .about-picture img {
   border-radius: 8%;
   height: 400px;
+  box-shadow: 5px 5px 5px grey
 }
 
 .about-text {
