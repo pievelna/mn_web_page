@@ -27,6 +27,11 @@ body {
   justify-content: space-between;
 } */
 
+.title_pic img{
+  height: auto;
+  width: 100%
+}
+
 .title_icon img{
   height: 50px;
 }
