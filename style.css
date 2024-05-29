@@ -3,9 +3,8 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  /* background-color: #F6EFE4; */
   background-image: url("noise.png");
-  font-size: large;
+  font-size: 18px;
 }
 
 .flex-container {
@@ -19,24 +18,16 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 10px 10px 60px;
+  padding: 10px 60px;
 }
 
-/* .title {
-  display: flex;
-  justify-content: space-between;
-} */
-
 .title_pic {
-  padding: 50px 0 50px 0;
+  /* padding: 0px 0 50px 0; */
 }
 
 .title_pic img{
-  /* margin-top: 100px;
-  padding-top: 100px; */
   height: auto;
   width: 100%
-  
 }
 
 .title_icon img{
@@ -64,21 +55,25 @@ body {
 h2 {
   text-align: center;
   font-weight: normal;
+  font-size: 30px;
+  padding: 50px;
 }
 
 h3 {
   text-align: center;
   font-weight: 590;
+  font-size: 24px;
+  padding: 20px 100px;
 }
 
-.legend {
+p.legend {
   text-align: justify;
   padding: 0 150px 0 150px;
 }
 
 .content {
-  margin: 10px;
-  padding-bottom: 20px;
+  /* margin: 10px; */
+  /* padding-bottom: 20px; */
 }
 
 .about {
@@ -87,7 +82,7 @@ h3 {
   justify-content: center;
   align-items: center;
   gap: 50px;
-  padding: 50px 150px 150px 150px;
+  padding: 0px 150px 0px 150px;
 }
 
 .about-picture img {
@@ -121,7 +116,7 @@ h3 {
 }
 
 .contact {
-  padding: 150px;
+  /* padding: 150px; */
 }
 
 .contact div {
@@ -155,6 +150,11 @@ h3 {
     display:flex;
     gap: 10px;
     /* text-transform: uppercase; */
+  }
+
+  p.legend, h3.legend {
+    text-align: start;
+    padding: 10px;
   }
 
   .about {
