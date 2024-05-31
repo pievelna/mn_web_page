@@ -5,6 +5,7 @@ body {
   padding: 0;
   background-image: url("noise.png");
   font-size: 18px;
+  color: #213d17;
 }
 
 .flex-container {
@@ -48,7 +49,7 @@ body {
 
 .navigation-links a {
   text-decoration: none;
-  color: #333;
+  color:#213d17;
   font-weight: bold;
 }
 
@@ -126,7 +127,7 @@ p.legend {
 
 .contact a {
   text-decoration: none;
-  color: black;
+  color: #213d17;
 }
 
 @media only screen and (max-width: 600px) {
