@@ -26,9 +26,9 @@ body {
   padding: 10px 60px;
 }
 
-.title_pic {
-  /* padding: 0px 0 50px 0; */
-}
+/*.title_pic {
+  padding: 0px 0 50px 0;
+} */
 
 .title_pic img{
   height: auto;
@@ -80,10 +80,10 @@ p.legend {
   padding: 0 150px 0 150px;
 }
 
-.content {
-  /* margin: 10px; */
-  /* padding-bottom: 20px; */
-}
+/* .content {
+  margin: 10px;
+  padding-bottom: 20px;
+} */
 
 .about {
   display: flex;
@@ -124,9 +124,9 @@ p.legend {
   font-size: xx-small;
 }
 
-.contact {
-  /* padding: 150px; */
-}
+/*.contact {
+  padding: 150px;
+} */
 
 .contact div {
   padding: 20px;
