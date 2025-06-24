@@ -155,3 +155,7 @@ h2 {
 li {
   list-style-type: none;
 }
+
+.sublist{
+  list-style-type:none;
+}
