@@ -17,15 +17,6 @@ General idea - name of the page or icon. And two or three navigation links to se
 
 
 # TO DO
-<<<<<<< HEAD
-[ ] domain: madaranigale.lv
-[ ] add highlight clicked section in the top bar
-[ ] add HEPI kursi
-[ ] add Dardedzes kursi
-[ ] add MDR kursi
-[ ] change citu sūnu bildi, trashīgāku
-[ ] change smalkāku fontu
-=======
 [x] domain: madaranigale.lv
 [ ] add highlight clicked section in the top bar
 [ ] add HEPI kursi
@@ -35,7 +26,6 @@ General idea - name of the page or icon. And two or three navigation links to se
 [ ] change smalkāku fontu
 [ ] update page title
 [x] update the meta tag name and content
->>>>>>> origin
 [x] decide on the background
 [x] get picture to use instead of Mona
 [x] contact info? new email? Same email
