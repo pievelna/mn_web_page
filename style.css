@@ -22,8 +22,20 @@ body {
   padding: 10px;
 }
 
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title h1{
+  font-size: large;
+  font-weight: bold;
+}
+
 .title_icon img{
   height: 50px;
+  padding: 10px;
 }
 
 .navigation-links {
@@ -106,6 +118,10 @@ h2 {
   color: black;
 }
 
+.mobile-break {
+  display: none;
+}
+
 @media only screen and (max-width: 600px) {
   body{
     background-size: 150%;
@@ -147,6 +163,10 @@ h2 {
 
   .contact {
     padding: 10px;
+  }
+
+  .mobile-break {
+    display: inline;
   }
 
 }
