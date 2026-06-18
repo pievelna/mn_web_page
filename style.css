@@ -72,7 +72,7 @@ h2 {
   justify-content: center;
   align-items: center;
   gap: 50px;
-  padding: 150px
+  padding: 40px 150px 150px;
 }
 
 .about-picture img {
@@ -91,12 +91,39 @@ h2 {
   margin: 5px;
 }
 
+.about-bio {
+  max-width: 80ch;
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: left;
+}
+
+.about-bio p {
+  margin: 0 0 15px;
+}
+
 .education {
   padding: 0;
 }
 
 .education li {
   padding-bottom: 10px;
+}
+
+.qa {
+  max-width: 65ch;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.qa h3 {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.qa p {
+  margin-top: 0;
+  margin-bottom: 30px;
 }
 
 .bottom-bar {
