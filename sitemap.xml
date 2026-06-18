@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.madaranigale.lv/</loc>
-    <lastmod>2025-09-02</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.madaranigale.lv/qa.html</loc>
+    <lastmod>2026-06-18</lastmod>
+    <priority>0.80</priority>
   </url>
 </urlset>
